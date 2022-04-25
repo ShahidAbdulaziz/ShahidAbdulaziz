@@ -1,3 +1,5 @@
+![Office Mockup 1920x1080](https://user-images.githubusercontent.com/66572433/165173869-6a803dc3-9d30-4fe6-947d-45d957a819f0.png)
+
 # Data Scientist 
 Currently, I am a Data Scientist with my Master’s in Data Science and soon to be second Masters in Software Development. Additionally, I run my own Data Science and Software Development consulting company called AZ Data Consulting. Consulting/contracting allows me to address extensive data issues across a variety of areas, which I enjoy. I love creating storybooks from data that anyone can interpret and understand. Most importantly, I know every problem does not require a Machine Learning Model. Often, a simpler root is the most efficient path. 
 
