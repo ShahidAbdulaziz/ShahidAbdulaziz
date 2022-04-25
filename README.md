@@ -7,7 +7,7 @@ Currently, I am a Data Scientist with my Master’s in Data Science and soon to 
 - 💬 Ask me about anything, I am a very open book!
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/shahidabdulaziz/) | [Business Website](https://www.azdataconsulting.com/)
 
-#Below are some of my soft and technical skills: 
+# Below are some of my soft and technical skills: 
 
 📊 Data Visualization- Tableau, Power BI, Matplotlib, GGPLOT2, Google Data Studios, Shinny
 
@@ -25,4 +25,3 @@ Currently, I am a Data Scientist with my Master’s in Data Science and soon to 
 
 💪 Soft Skills- Leadership, Communication, Agile, Personable, Team Player, Hardworking, Problem-Solver, Efficient
 
-💼 Business Website- https://www.azdataconsulting.com/
